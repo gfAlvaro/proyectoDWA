@@ -33,7 +33,9 @@
             "outputMode": "server",
             "ssr": {
               "entry": "src/server.ts"
-            }
+            },
+            "outputPath": "dist/proyectoDWA",
+            "index": "src/index.html"
           },
           "configurations": {
             "production": {
